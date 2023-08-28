@@ -2,4 +2,4 @@
 
 
 Extenções:
-	Vutur,Volar
+	Vetur,Volar
